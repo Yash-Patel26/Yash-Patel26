@@ -227,8 +227,6 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 ## 💡 What I'm Working On
 
-<div align="center">
-
 - 🔭 **Currently:** Building AI/ML applications and full-stack web solutions
 - 🌱 **Learning:** Generative AI, Azure AI Services, Advanced Python, and System Design
 - 👯 **Collaborating:** Open source projects and AI/ML initiatives
@@ -236,8 +234,6 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 - 💬 **Expertise:** Python, Web Development, AI/ML, Azure Cloud Services
 - 📫 **Reach Out:** Connect via social links above or visit [www.gamerflick.in](http://www.gamerflick.in)
 - ⚡ **Fun Fact:** I love building AI-powered applications and solving complex problems!
-
-</div>
 
 ---
 
@@ -265,6 +261,8 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 ### 💼 Professional & Client Projects
 
+</div>
+
 I maintain **27+ private repositories** containing confidential projects, client work, and proprietary solutions. These include:
 
 - **Enterprise Applications** - Custom solutions for businesses
@@ -274,12 +272,14 @@ I maintain **27+ private repositories** containing confidential projects, client
 - **Sensitive Projects** - Projects requiring privacy
 
 **Note:** Private repositories are not publicly accessible but contribute to my overall development experience and expertise. These projects demonstrate my ability to work on:
+
 - Enterprise-level applications
 - Client-facing solutions
 - Secure and confidential development
 - Production-ready systems
 
 **Examples of Private Projects Include:**
+
 - 🔐 **Gamerflick-1** - Advanced gaming platform features
 - 🔐 **Web-developer** - Professional web development projects
 - 🔐 **garuda-insurance** - Insurance management system
@@ -287,6 +287,8 @@ I maintain **27+ private repositories** containing confidential projects, client
 - 🔐 **mldc** - Machine Learning & Data Science projects
 - 🔐 **Mini-project** - Various mini-projects and prototypes
 - 🔐 And 21+ more private repositories...
+
+<div align="center">
 
 *For inquiries about private work or collaboration opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/yash-patel-dgi/) or [Email](mailto:contact@gamerflick.in)*
 
