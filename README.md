@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Yash Patel!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Undergraduate;AI+%26+ML+Enthusiast;Full+Stack+Developer;Building+Innovative+Solutions&center=true&size=35&color=FF6B9D&vCenter=true&width=700&height=60)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Undergraduate;AI+%26+ML+Enthusiast;Full+Stack+Developer;Building+Innovative+Solutions&center=true&size=35&color=FF6B9D&vCenter=true&width=700&height=60)
 
 [![GitHub followers](https://img.shields.io/github/followers/Yash-Patel26?style=for-the-badge&logo=github&color=FF6B9D&labelColor=0D1117)](https://github.com/Yash-Patel26)
 [![GitHub stars](https://img.shields.io/github/stars/Yash-Patel26?style=for-the-badge&logo=github&color=FF6B9D&labelColor=0D1117)](https://github.com/Yash-Patel26)
@@ -55,13 +55,13 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 <div align="center">
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF&hide_title=false&card_width=600&cache_seconds=1800)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF&hide_title=false&card_width=600&cache_seconds=300)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Patel26&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideNums=FF6B9D&sideLabels=FFFFFF&dates=FFFFFF&cache=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yash-Patel26&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideNums=FF6B9D&sideLabels=FFFFFF&dates=FFFFFF&cache=false)
 
 </div>
 
@@ -71,7 +71,7 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Patel26&theme=radical&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&hide=html,css&card_width=600&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Patel26&theme=radical&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&hide=html,css&card_width=600&cache_seconds=300)
 
 </div>
 
@@ -101,7 +101,6 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 <div align="center">
 
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/Yash-Patel26/Yash-Patel26?style=for-the-badge&logo=github&color=FF6B9D&labelColor=0D1117)
 ![GitHub Followers](https://img.shields.io/github/followers/Yash-Patel26?style=for-the-badge&logo=github&color=FF6B9D&labelColor=0D1117)
 ![GitHub Stars](https://img.shields.io/github/stars/Yash-Patel26?style=for-the-badge&logo=github&color=FF6B9D&labelColor=0D1117)
 ![GitHub Forks](https://img.shields.io/github/forks/Yash-Patel26?style=for-the-badge&logo=github&color=FF6B9D&labelColor=0D1117)
@@ -328,7 +327,7 @@ I maintain **27+ private repositories** containing confidential projects, client
 
 <div align="center">
 
-![GitHub Achievements](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&hide=contribs,prs&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&card_width=600&cache_seconds=1800)
+![GitHub Achievements](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&hide=contribs,prs&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&card_width=600&cache_seconds=300)
 
 </div>
 
