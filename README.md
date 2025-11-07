@@ -55,13 +55,13 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 <div align="center">
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF&hide_title=false&card_width=600)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF&hide_title=false&card_width=600&cache_seconds=1800)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Patel26&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideNums=FF6B9D&sideLabels=FFFFFF&dates=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Patel26&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideNums=FF6B9D&sideLabels=FFFFFF&dates=FFFFFF&cache=false)
 
 </div>
 
@@ -71,7 +71,7 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Patel26&theme=radical&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&hide=html,css&card_width=600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Patel26&theme=radical&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&hide=html,css&card_width=600&cache_seconds=1800)
 
 </div>
 
@@ -91,7 +91,7 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 <div align="center">
 
-![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Patel26&theme=radical&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&hide_border=true&area=true&radius=8)
+![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Patel26&theme=radical&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&hide_border=true&area=true&radius=8&cache=false)
 
 </div>
 
@@ -215,11 +215,13 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 <div align="center">
 
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Patel26&theme=radical)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Patel26&theme=radical&cache=false)
 
-![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash-Patel26&theme=radical)
-![Profile Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Patel26&theme=radical)
-![Profile Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yash-Patel26&theme=radical)
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash-Patel26&theme=radical&cache=false)
+![Profile Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Patel26&theme=radical&cache=false)
+
+![Profile Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yash-Patel26&theme=radical&cache=false)
+![Profile Most Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash-Patel26&theme=radical&cache=false)
 
 </div>
 
@@ -326,7 +328,7 @@ I maintain **27+ private repositories** containing confidential projects, client
 
 <div align="center">
 
-![GitHub Achievements](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&hide=contribs,prs&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&card_width=600)
+![GitHub Achievements](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&hide=contribs,prs&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&card_width=600&cache_seconds=1800)
 
 </div>
 
