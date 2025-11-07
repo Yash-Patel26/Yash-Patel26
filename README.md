@@ -81,7 +81,7 @@ I'm a **Computer Engineering Undergraduate** passionate about learning new progr
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Yash-Patel26&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&row=2)
+![trophy](https://github-profile-trophy.vercel.app/?username=Yash-Patel26&theme=radical&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=7&row=2)
 
 </div>
 
@@ -313,11 +313,13 @@ I maintain **27+ private repositories** containing confidential projects, client
 
 ### 🔥 Most Active Repositories
 
-- **Generative-AI** - Comprehensive AI learning course
-- **Event-Organiser** - Full-featured event management system
-- **Document-analyzer** - AI-powered document processing
-- **GamerFlick Platform** - Gaming platform backend & frontend
-- **Dream-Job** - Career guide for B.Tech students
+| Repository | Description |
+|------------|-------------|
+| **Generative-AI** | Comprehensive AI learning course |
+| **Event-Organiser** | Full-featured event management system |
+| **Document-analyzer** | AI-powered document processing |
+| **GamerFlick Platform** | Gaming platform backend & frontend |
+| **Dream-Job** | Career guide for B.Tech students |
 
 </div>
 
@@ -327,7 +329,7 @@ I maintain **27+ private repositories** containing confidential projects, client
 
 <div align="center">
 
-![GitHub Achievements](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&hide=contribs,prs&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&card_width=600&cache_seconds=300)
+![GitHub Achievements](https://github-readme-stats.vercel.app/api?username=Yash-Patel26&theme=radical&show_icons=true&hide=contribs,prs&hide_border=false&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF&card_width=600&cache_seconds=300)
 
 </div>
 
