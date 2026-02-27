@@ -16,7 +16,7 @@
 
 <div align="center">
 
-I'm a **Computer Engineering Undergraduate** passionate about learning new programming languages and connecting with innovative minds. Currently associated with **Netleaf Software** in Greater Noida, I specialize in building AI-powered applications, full-stack web solutions, and innovative projects that solve real-world problems.
+I'm a **Computer Engineering Undergraduate** passionate about learning new programming languages and connecting with innovative minds. Currently associated with **Trevel** in Greater Noida, I specialize in building AI-powered applications, full-stack web solutions, and innovative projects that solve real-world problems.
 
 </div>
 
