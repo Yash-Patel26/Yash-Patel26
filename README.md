@@ -9,7 +9,6 @@
 ## What I've built
 
 - 🚗 **[Trevel](https://www.trevel.in)** — Founding engineer · Premium EV ride-hailing in Gurgaon (Inwisement Technologies, $1M raised, Jindal Group backed). Shipped **production iOS + Android apps**, booking system, and fleet dispatcher. **1000+ completed rides**, MG Windsor EV fleet, AI-enabled dashcams, zero-cancellation guarantee. Tagline: *"Premium EV Rides. Built on Reliability. Backed by Safety."*
-- 🛵 **MacroRides** — Founding engineer · mobility product currently in development.
 - 🎮 **[GamerFlick](https://www.gamerflick.in)** — Founding engineer · **🟢 Live** — India's first mobile-first competitive gaming platform. Real-money tournaments, dual-wallet economy, live community features. Flutter app + Node.js / Fastify / Prisma + PostgreSQL on GCP Cloud Run.
 
 ---
